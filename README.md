@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-I’m a bioinformatician at AnaptysBio, an antibody development company focusing on inflammatory diseases. I primarily analyze NGS data of antibody repertoires (:mouse: and :man:). 
+I’m a bioinformatician at AnaptysBio, an antibody development company focusing on inflammatory diseases. I primarily analyze NGS data of antibody repertoires. 
 </div>
 
 <br>
